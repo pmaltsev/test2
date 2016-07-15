@@ -19,8 +19,9 @@ sdfdsaa            WebApiHostRunner.Configuration(appBuilder,
 
             Mapper.Initialize(AutomapperConfig.Configure);
             
-        }
-
+       sadfasdf }
+               sdafasdfsadf
+sdafsadf
         static void Main(string[] args)
         {
             var config = new ProjectConfiguration(
