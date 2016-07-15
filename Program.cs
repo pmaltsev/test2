@@ -1,6 +1,4 @@
-﻿using System;
-using Apollo.Services.Core;
-using Apollo.Sports.Core;
+﻿using Apollo.Sports.Core;
 using Apollo.Sports.Core.Configuration;
 using AutoMapper;
 using Microsoft.Owin;
